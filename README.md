@@ -1,5 +1,5 @@
 # **Awesome Security Now**
-Security Now is a podcast on the TWit Network about the latest cyber security news, interesting discussions about
+Security Now is a podcast on the TWiT Network about the latest cyber security news, interesting discussions about
 computers, engineering and a whole lot more. Security Now has more than a decade legacy of being awesome, and the
 work both Steve Gibson (Security Now Host) and Leo LaPorte (cohost, TWiT Network Founder) have done are awesome in
 their own regards. So if anyone deserves an *awesome* list of things, it's **Security Now**.
