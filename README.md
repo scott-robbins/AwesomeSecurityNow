@@ -4,6 +4,8 @@ computers, engineering and a whole lot more. Security Now has more than a decade
 work both Steve Gibson (Security Now Host) and Leo LaPorte (cohost, TWiT Network Founder) have done are awesome in
 their own regards. So if anyone deserves an *awesome* list of things, it's **Security Now**.
 
+**This page is still under active development!**
+
 # < Computer Science />
 ### ./Computer Fundamentals
 
