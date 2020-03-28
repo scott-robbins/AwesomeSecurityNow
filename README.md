@@ -4,6 +4,21 @@ computers, engineering and a whole lot more. Security Now has more than a decade
 work both Steve Gibson (Security Now Host) and Leo LaPorte (cohost, TWiT Network Founder) have done are awesome in
 their own regards. So if anyone deserves an *awesome* list of things, it's **Security Now**.
 
+### Sections 
+* Computer Fundamentals
+
+* Cryptography
+
+* Networking 
+
+* Privacy
+
+* Engineering
+
+* Epic Hacks
+
+* Major Events
+
 **This page is still under active development!**
 
 # < Computer Science />
@@ -70,9 +85,17 @@ their own regards. So if anyone deserves an *awesome* list of things, it's **Sec
 *#* Episode 78: [Hardware DEP](https://twit.tv/shows/security-now/episodes/78)
 
 
-# < Sublime Hacks />
+# < Breaches, Bugs and Breakdowns />
+### ./Sublime Hacks
 *#* Episode 600: [The MMU Side-Channel Attack](https://twit.tv/shows/security-now/episodes/600)
 
 *#* Episode 722: [Gem Hack](https://twit.tv/shows/security-now/episodes/722)
 
 *#* Episode 576: [Flip Feng Shui](https://twit.tv/shows/security-now/episodes/722)
+
+*#* Episode 745: [PlunderVolt](https://twit.tv/shows/security-now/episodes/745)
+
+### ./Major Events
+*#* Episode 746: [Decade of Hacks](https://twit.tv/shows/security-now/episodes/746)
+
+ 
